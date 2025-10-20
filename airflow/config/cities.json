@@ -1,0 +1,22 @@
+[
+    {"name": "Milano", "lat": 45.4642, "lon": 9.1900},
+    {"name": "Roma", "lat": 41.9028, "lon": 12.4964},
+    {"name": "Napoli", "lat": 40.8518, "lon": 14.2681},
+    {"name": "Torino", "lat": 45.0703, "lon": 7.6869},
+    {"name": "Firenze", "lat": 43.7696, "lon": 11.2558},
+    {"name": "Bologna", "lat": 44.4949, "lon": 11.3426},
+    {"name": "Venezia", "lat": 45.4408, "lon": 12.3155},
+    {"name": "Palermo", "lat": 38.1157, "lon": 13.3615},
+    {"name": "Genova", "lat": 44.4056, "lon": 8.9463},
+    {"name": "Bari", "lat": 41.1171, "lon": 16.8719},
+    {"name": "Catania", "lat": 37.5079, "lon": 15.0830},
+    {"name": "Verona", "lat": 45.4384, "lon": 10.9916},
+    {"name": "Messina", "lat": 38.1938, "lon": 15.5540},
+    {"name": "Padova", "lat": 45.4064, "lon": 11.8768},
+    {"name": "Trieste", "lat": 45.6495, "lon": 13.7768},
+    {"name": "Taranto", "lat": 40.4644, "lon": 17.2470},
+    {"name": "Brescia", "lat": 45.5416, "lon": 10.2118},
+    {"name": "Prato", "lat": 43.8777, "lon": 11.1022},
+    {"name": "Modena", "lat": 44.6471, "lon": 10.9252},
+    {"name": "Reggio Calabria", "lat": 38.1105, "lon": 15.6613}
+]
