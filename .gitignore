@@ -2,3 +2,4 @@
 /airflow/airflow.*
 /airflow/*.generated
 /airflow/dags/__pycache__
+/airflow/logs
