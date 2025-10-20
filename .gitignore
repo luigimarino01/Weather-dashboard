@@ -1,0 +1,4 @@
+/airflow/data
+/airflow/airflow.*
+/airflow/*.generated
+/airflow/dags/__pycache__
