@@ -65,7 +65,7 @@ streamlit run app.py
 3. Open the dashboard in your browser (usually `http://localhost:8501`).  
 4. Select a city to see **metrics** and **charts** for that city.
 
-![dashboard](img/dashboard.png.png)
+![dashboard](img/dashboard.png)
 ---
 
 ## **Configuration**
