@@ -1,5 +1,6 @@
 # Italy Weather Dashboard
 [![it](https://img.shields.io/badge/lang-it-red.svg)](README-it.md)
+
 This is a **learning project** created to familiarize with **Apache Airflow**, combined with **Streamlit** for visualization.  
 It extracts, transforms, and visualizes weather data for major Italian cities using the [Open-Meteo API](https://open-meteo.com/).
 
@@ -64,6 +65,7 @@ streamlit run app.py
 3. Open the dashboard in your browser (usually `http://localhost:8501`).  
 4. Select a city to see **metrics** and **charts** for that city.
 
+![dashboard](img/dashboard.png.png)
 ---
 
 ## **Configuration**
