@@ -24,8 +24,8 @@ Estrae, trasforma e visualizza i dati meteo delle principali città italiane uti
 1. **Clona il repository**:
 
 ```bash
-git clone <url-del-tuo-repo>
-cd <cartella-del-repo>
+git clone <https://github.com/luigimarino01/Weather-dashboard>
+cd <Weather-dashboard>
 ```
 
 2. **Costruisci l'immagine Docker**:
