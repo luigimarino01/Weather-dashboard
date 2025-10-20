@@ -29,7 +29,7 @@ dag = DAG(
     dag_id="weather_dag",
     description="ETL pipeline for italian weather",
     default_args=default_args,
-    schedule="@daily",  # esecuzione giornaliera
+    schedule="@daily",
     start_date=datetime(2025, 10, 20),
     catchup=False
 )
